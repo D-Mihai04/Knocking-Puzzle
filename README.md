@@ -43,7 +43,7 @@ At any point, invalid input or timeout resets the system back to WAITING.
 ## Behavior
 ### Correct Sequence
 2 → 3 → 1 knocks in order triggers:
-- LED ON / pattern unlock / output activatio
+- LED ON / pattern unlock / output activation
 
 
 ### Wrong Sequence
@@ -54,3 +54,4 @@ At any point, invalid input or timeout resets the system back to WAITING.
 
 ## Goal
 Create a simple puzzle where users must discover and input the correct knocking pattern to unlock a response.
+
