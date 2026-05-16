@@ -3,7 +3,7 @@
 ## Overview
 This project is a simple interactive puzzle using a vibration/knock sensor attached to a wooden surface (door/plank). The system detects knock patterns and triggers an action when the correct sequence is entered.
 
-The target sequence can be modified in code, it currently is:
+The target sequence can be modified manually, it currently is:
 **2 knocks → 3 knocks → 1 knock**
 
 ---
